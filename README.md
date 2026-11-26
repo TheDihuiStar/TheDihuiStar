@@ -5,7 +5,7 @@
   <br> <img width="602" src="https://github.com/user-attachments/assets/a8824739-29c9-424e-889d-fb0e645b82bc" />
 </div>
 <div align="right">
-  thats saint
+  thats <a href="https://rainworld.miraheze.org/wiki/Saint">saint</a>
   <br> sorry h&y fans
 </div>
   <!--
