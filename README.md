@@ -2,7 +2,10 @@
   projectmoon fan interact plz do
   <br> <a href="https://tranz.atabook.org">新book</a> - <a href="https://pronouns.cc/@niccals">pronouns.cc</a> - <a href="https://medici.straw.page">straw.page</a>
   <br>
+  <br> <img width="602" src="https://github.com/user-attachments/assets/a8824739-29c9-424e-889d-fb0e645b82bc" />
+  <!--
   <br> <a href="https://en.wikipedia.org/wiki/Emergency_on_Planet_Earth"><img width="864" src="https://github.com/user-attachments/assets/ac0744c1-b064-496e-a13b-4bd4b3012624" /></a>
+  -->
   <br>
 </div>
   <br> "I wanted this to be an album, not a collection of three minute songs.
