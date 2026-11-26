@@ -16,4 +16,4 @@
   <br> I didn't want tracks to be rigid, stuck in that verse, chorus, verse, chorus thing.
   <br> All the people I'd been listening to were jazz-fusion bands,
   <br> they didn't do three minute tracks, they just played."
-  <br> - Jay Kay, 2013
+  <br> - <a href="https://en.wikipedia.org/wiki/Jay_Kay">Jay Kay</a>, 2013
